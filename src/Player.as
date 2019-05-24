@@ -6,7 +6,7 @@ package
 	import org.flixel.plugin.photonstorm.BaseTypes.Bullet;
 	/**
 	 * ...
-	 * @author Oleg Smagnov
+	 * @author
 	 */
 	public class Player extends FlxSprite 
 	{
